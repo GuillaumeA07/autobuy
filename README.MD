@@ -28,6 +28,10 @@ SECRET='YOUR_SECRET_KEY'
 ```
 python autobuy.py -c <your_yaml_config_file> -p <primary_asset> -a <amount_of_primary_asset_to_spend>
 ```
+```
+Exemple:
+python autobuy.py -c config.yaml -p USDT -a 1500
+```
 Primary asset must be one of : USDT;USDC;BUSD;BTC....
 
 5) Results are displayed in the command line and save in a csv file
