@@ -1,0 +1,4 @@
+python-dotenv
+python-binance
+tabulate
+pyyaml
