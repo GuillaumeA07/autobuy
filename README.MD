@@ -29,7 +29,7 @@ SECRET='YOUR_SECRET_KEY'
 python autobuy.py -c <your_yaml_config_file> -p <primary_asset> -a <amount_of_primary_asset_to_spend>
 ```
 ```
-Exemple:
+Example:
 python autobuy.py -c config.yaml -p USDT -a 1500
 ```
 Primary asset must be one of : USDT;USDC;BUSD;BTC....
