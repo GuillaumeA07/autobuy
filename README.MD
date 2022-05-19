@@ -1,6 +1,6 @@
 # Autobuy
 
-This script buy crypto following a yaml list and save the order in a excel file.
+This script buy crypto following a yaml list and save orders in a excel file.
 Work with binance spot only.
 
 ## Installation
